@@ -1,0 +1,7 @@
+# CryptoBuddy - Cryptocurrency Advisor Chatbot
+# No external dependencies required - uses only Python standard library
+# Python 3.6+ recommended
+
+# Optional dependencies for enhanced features:
+# requests>=2.25.1  # For future API integration
+# colorama>=0.4.4   # For colored terminal output
