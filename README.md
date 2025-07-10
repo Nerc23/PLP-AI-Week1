@@ -134,7 +134,9 @@ This chatbot mimics basic AI decision-making by using rule-based logic to analyz
 
 Built with ❤️ for the AI & Cryptocurrency community
 
-
+----
+Deployed on Netlify via Bolt.new:
+https://tourmaline-cobbler-450c6a.netlify.app/
 
 
 
