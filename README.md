@@ -19,3 +19,22 @@ Create a rule-based chatbot that analyzes cryptocurrency data and provides inv
 - Data: Predefined crypto datasets (provided below).
 
 - Platform: Code in Google Colab, Jupyter Notebook, or any IDE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------
+"This chatbot mimics basic AI decision-making by using rule-based logic to analyze user queries through pattern matching, then processing structured cryptocurrency data to calculate profitability and sustainability scores. It weighs multiple factors (price trends, market cap, energy efficiency) to provide personalized recommendations, demonstrating fundamental AI reasoning processes."
